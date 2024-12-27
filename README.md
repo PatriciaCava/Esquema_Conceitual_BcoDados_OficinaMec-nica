@@ -1,4 +1,4 @@
-# Esquema_Conceitual_BcoDados_OficinaMec-nica
+# Esquema_Conceitual_BcoDados_OficinaMecânica
 Desafio Oficina Mecânica - DIO: Esquema do Projeto Conceitual do Banco de Dados
 
 O projeto conceitual esquematizado para o desafio do 'sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica' possui as seguintes entidades e suas estruturas:
